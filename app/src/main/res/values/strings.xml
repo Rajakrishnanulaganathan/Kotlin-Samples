@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KotlinSamples</string>
+    <string name="kotlin_basics">Kotlin Basics</string>
+    <string name="kotlin_views">Kotlin Views</string>
+    <string name="button">Button</string>
+    <string name="apply">Apply</string>
+    <string name="enter_the_text">Enter the Text</string>
+    <string name="value">Value</string>
+    <string name="toast">Toast</string>
+    <string name="enter_your_text">Enter your text</string>
+    <string name="select">Select</string>
+    <string name="check_the_text">Check The Text</string>
+    <string name="checked">Checked</string>
+    <string name="unchecked">Un Checked</string>
+    <string name="rating">Rating</string>
+    <string name="switch_text">switch</string>
+    <string name="list_view">list view</string>
+    <string name="recycler_view">Recycler view</string>
+</resources>
